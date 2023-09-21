@@ -2,6 +2,6 @@ version: '3.8'
 
 services:
   web-app: 
-    image: aspnet-app
+    image: joaoinvernal/aspnet-web:v1
     ports:
       - 80:80
